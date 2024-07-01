@@ -7,14 +7,26 @@ CCI Video Analysis Tool is a software application designed to assist users in an
 - **Operating System:** Windows
 
 ## Getting Started
-1. **Locate the `CCIVideoAnalysisTool.exe` File**
-   - Find the executable in the `dist` folder.
-   
-2. **Run the Application**
-   - Execute `CCIVideoAnalysisTool.exe` to launch the tool.
-   
-3. **Tool Interface**
-   - The CCI Video Analysis Tool window should appear.
+1. **Download the Tool:**
+   - Click on the green "Code" button located above this repository.
+   - Select "Download ZIP" from the dropdown menu.
+   - Save the ZIP file to your computer.
+
+2. **Extract the ZIP File:**
+   - Navigate to the downloaded ZIP file on your computer.
+   - Right-click on the file and select "Extract All...".
+   - Choose a destination folder where you want to extract the files.
+
+3. **Locate the Executable:**
+   - Once extracted, navigate to the extracted folder.
+   - Look for the `dist` folder.
+   - Inside the `dist` folder, you will find the `CCIVideoAnalysisTool.exe` file.
+
+4. **Run the Tool:**
+   - Double-click on `CCIVideoAnalysisTool.exe` to launch the CCI Video Analysis Tool.
+
+5. **Getting Started:**
+   - Follow the instructions in the tool's interface to load videos, annotate data, and export results.
 
 ## Interface Overview
 
