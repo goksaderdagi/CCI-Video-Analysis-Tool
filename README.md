@@ -44,8 +44,8 @@ CCI Video Analysis Tool is a software application designed to assist users in an
 - **Pause/Resume:** Pause or resume playback.
 - **+1h:** Skip forward by 1 hour.
 - **-1h:** Skip backward by 1 hour.
-- **+10s:** Skip forward by 10 seconds.
-- **-10s:** Skip backward by 10 seconds.
+- **+1s:** Skip forward by 1 second.
+- **-1s:** Skip backward by 1 second.
 - **Frame Forward/Backward:** Move frame by frame.
 - **Right Side Line Entry:** Adjust right side line numbers.
 - **Time Label:** Display video timestamp.
