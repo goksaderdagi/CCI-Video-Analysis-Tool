@@ -64,8 +64,10 @@ CCI Video Analysis Tool is a software application designed to assist users in an
 - **Movement:** Vehicle direction (Thru, Left, Right).
 - **Additional Comments:** Additional notes.
 
-## ML Columns
-- Timestamps for vehicles passing marking lines.
+## ML-MM-MR (Left-Middle-Right View) Columns
+- **ML Columns:** Timestamps for vehicles passing marking lines on the left side.
+- **MM Columns:** Timestamps for vehicles passing marking lines in the middle.
+- **MR Columns:** Timestamps for vehicles passing marking lines on the right side.
 
 ## Exporting Data
 1. **Click "Export Data" Button**
